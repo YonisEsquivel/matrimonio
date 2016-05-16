@@ -35,6 +35,8 @@ h2:before{
 .container {
   background-color: rgba(255, 255, 255, 0.73);
   padding: 10px;
+  height: 120px;
+  width: 250px;
 }
 
 .styled div {
